@@ -1,6 +1,6 @@
 
 /*test*/
-/*test2*/
+/*test2-1*/
 
 /* making some changes to the file */
 $(function() {
